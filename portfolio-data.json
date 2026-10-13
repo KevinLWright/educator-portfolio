@@ -1,0 +1,144 @@
+{
+  "standards": [
+    {
+      "id": "1",
+      "name": "Child Development and Learning in Context",
+      "description": "Understanding how children grow and learn within their families, cultures, communities, and individual circumstances."
+    },
+    {
+      "id": "2",
+      "name": "Family–Teacher Partnerships and Community Connections",
+      "description": "Building respectful, reciprocal relationships with families and connecting children’s learning with their communities."
+    },
+    {
+      "id": "3",
+      "name": "Child Observation, Documentation, and Assessment",
+      "description": "Using purposeful observation and documentation to understand development and inform responsive teaching."
+    },
+    {
+      "id": "4",
+      "name": "Developmentally, Culturally, and Linguistically Appropriate Teaching Practices",
+      "description": "Choosing teaching approaches that respond to children’s development, strengths, experiences, languages, and interests."
+    },
+    {
+      "id": "5",
+      "name": "Knowledge, Application, and Integration of Academic Content in the Early Childhood Curriculum",
+      "description": "Creating meaningful opportunities for children to explore ideas, build knowledge, and make connections through learning experiences."
+    },
+    {
+      "id": "6",
+      "name": "Professionalism as an Early Childhood Educator",
+      "description": "Reflecting on professional responsibilities, ethical practice, collaboration, and continued growth as an educator."
+    }
+  ],
+  "assignments": [
+    {
+      "id": "who-i-am",
+      "title": "Who I Am",
+      "topic": "Early Childhood Education",
+      "date": "September 3",
+      "standard": "6",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "history",
+      "title": "Early Childhood Pioneer",
+      "topic": "History",
+      "date": "September 10",
+      "standard": "6",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "teaching-philosophy",
+      "title": "Teaching Philosophy",
+      "topic": "Theory",
+      "date": "September 17",
+      "standard": "4",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "infant-observation",
+      "title": "Infant Observation",
+      "topic": "Observation",
+      "date": "September 24",
+      "standard": "3",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "technology",
+      "title": "Technology in Action",
+      "topic": "Technology",
+      "date": "October 1",
+      "standard": "4",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "toddler-care",
+      "title": "Infant–Toddler Care Practices",
+      "topic": "Toddlerhood",
+      "date": "October 8",
+      "standard": "1",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "play-philosophy",
+      "title": "Play Philosophy",
+      "topic": "Preschool",
+      "date": "October 15",
+      "standard": "4",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "school-readiness",
+      "title": "What Is School Readiness?",
+      "topic": "Kindergarten",
+      "date": "October 22",
+      "standard": "1",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "teacher-characteristics",
+      "title": "Teacher Characteristics",
+      "topic": "K–3",
+      "date": "November 5",
+      "standard": "6",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "disability-myth",
+      "title": "Disability Myth",
+      "topic": "SPED",
+      "date": "November 12",
+      "standard": "1",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "childrens-book",
+      "title": "Children’s Book & Social-Emotional Learning",
+      "topic": "Guidance",
+      "date": "November 19",
+      "standard": "5",
+      "file": "",
+      "justification": ""
+    },
+    {
+      "id": "family-handout",
+      "title": "Parent–Teacher Collaboration Handout",
+      "topic": "Family Engagement",
+      "date": "December 3",
+      "standard": "2",
+      "file": "",
+      "justification": ""
+    }
+  ]
+}
